@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author faisalshehzad
+ *
+ */
+module Inheritance {
+}
